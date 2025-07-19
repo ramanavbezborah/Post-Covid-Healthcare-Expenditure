@@ -21,7 +21,7 @@ This report is directed toward a range of stakeholders:
 
 This analysis contributes to understanding the global healthcare landscape by examining how wealthier and poorer nations prioritize healthcare, especially under the pressures of a pandemic.
  
-## Dataset Used: https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Raw%20Data.xlsx
+## Dataset Used: - <a href="https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Raw%20Data.xlsx">Dataset
 
 a.	**Methodology**:  - To provide answers to the research questions, a diverse set of visualizations was employed, each chosen for its effectiveness in representing specific aspects of the data:
 •	Line Chart: Line charts are ideal for showing trends over time, making them suitable for analysing healthcare expenditure as a percentage of GDP from 2019 to 2022. By tracking each country's spending over time, we can pinpoint significant shifts, such as those triggered by COVID-19.
