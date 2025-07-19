@@ -21,7 +21,9 @@ This report is directed toward a range of stakeholders:
 
 This analysis contributes to understanding the global healthcare landscape by examining how wealthier and poorer nations prioritize healthcare, especially under the pressures of a pandemic.
  
-##Methodology and Data
+## Dataset Used: https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Raw%20Data.xlsx
+The dataset consists of 239 rows and 6 columns, capturing a range of macroeconomic and health-related indicators for multiple countries over the years 2019 to 2022. It includes 13 key indicators such as GDP, GDP per capita, health expenditure (total and per capita), life expectancy, infant and under-5 mortality rates, population metrics, and unemployment rates. This structured time-series data is designed to analyze trends and relationships between a country's economic performance and public health outcomes, offering valuable insights for policy analysis, development planning, and comparative studies across regions.
+
 a.	Methodology:  - To provide answers to the research questions, a diverse set of visualizations was employed, each chosen for its effectiveness in representing specific aspects of the data:
 •	Line Chart: Line charts are ideal for showing trends over time, making them suitable for analysing healthcare expenditure as a percentage of GDP from 2019 to 2022. By tracking each country's spending over time, we can pinpoint significant shifts, such as those triggered by COVID-19.
 •	Scatter Plot: Scatter plots enable us to observe relationships between variables, making them appropriate for examining healthcare expenditure per capita against GDP per capita and life expectancy. These visualizations highlight how economic wealth correlates with healthcare investment and health outcomes.
