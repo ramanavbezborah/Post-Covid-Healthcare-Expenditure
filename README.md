@@ -1,5 +1,5 @@
 # Post-Covid-Healthcare-Expenditure
-
+Interactive Dashboard: <a href="https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Dashboard.twbx">Click Here
 ## Overview
 Healthcare expenditure significantly impacts both national economies and public health. By examining how countries allocate funds to healthcare, we gain insights into their economic priorities, healthcare system resilience, and the potential health outcomes of their populations. This analysis, covering 2019-2022, explores healthcare expenditure trends, with a specific focus on shifts brought about by the COVID-19 pandemic. The pandemic caused an unprecedented strain on healthcare systems worldwide, prompting governments to adjust their spending to address both immediate health crises and long-term resilience.
 
@@ -15,26 +15,37 @@ This analysis seeks to answer the following questions:
 
 ## Audience and Contributions
 This report is directed toward a range of stakeholders:
+
 •	Policymakers: They can use these findings to make informed budget allocations, focusing on regions or populations with low healthcare investment.
+
 •	Healthcare Administrators: Insights into healthcare spending patterns help administrators understand areas where funding adjustments may improve service delivery.
+
 •	Economists and Public Health Researchers: The correlations between healthcare spending, economic output, and life expectancy provide a basis for further study on how investments impact population health.
 
 This analysis contributes to understanding the global healthcare landscape by examining how wealthier and poorer nations prioritize healthcare, especially under the pressures of a pandemic.
  
-## Dataset Used: - <a href="https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Raw%20Data.xlsx">Dataset
+## Dataset Used: <a href="https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Raw%20Data.xlsx">Link
 
 a.	**Methodology**:  - To provide answers to the research questions, a diverse set of visualizations was employed, each chosen for its effectiveness in representing specific aspects of the data:
+
 •	Line Chart: Line charts are ideal for showing trends over time, making them suitable for analysing healthcare expenditure as a percentage of GDP from 2019 to 2022. By tracking each country's spending over time, we can pinpoint significant shifts, such as those triggered by COVID-19.
+
 •	Scatter Plot: Scatter plots enable us to observe relationships between variables, making them appropriate for examining healthcare expenditure per capita against GDP per capita and life expectancy. These visualizations highlight how economic wealth correlates with healthcare investment and health outcomes.
+
 •	Map Visualization: Map views were chosen to illustrate the geographic distribution of healthcare spending. By visualizing data on a map, we can quickly identify which regions allocate more or less of their GDP to healthcare.
+
 •	Heatmap: The heatmap provides an intuitive way to show changes in healthcare spending over multiple years. Heatmaps enable viewers to assess year-over-year increases or decreases in spending and compare countries quickly.
 
 These visualization types were selected to maximize clarity and allow for meaningful comparisons across countries and time periods.
 
 b.	**Data Description**: - The data for this analysis consists of 239 rows and 6 columns, sourced from World Development Indicators, spanning 2019 to 2022. Key variables include:
+
 •	Current Health Expenditure (% of GDP): This metric shows the share of a nation’s economic output allocated to healthcare, indicating the priority placed on public health.
+
 •	Current Health Expenditure per Capita (current US$): Reflects the average spending on healthcare per individual, which can be a strong indicator of healthcare access and quality.
+
 •	GDP per Capita (current US$): A measure of a country’s economic strength and its ability to fund healthcare.
+
 •	Life Expectancy at Birth: An indicator of overall health outcomes, helping us assess the relationship between healthcare investment and population longevity.
 
 **Preprocessing Summary**: The dataset underwent a multi-step preprocessing workflow to transform the original data into a clean, analysis-ready format. The original dataset was in a semi-structured format with indicators listed as rows under each country, and years (2019–2022) as separate columns. This format made it difficult to analyze trends across countries and indicators simultaneously.
