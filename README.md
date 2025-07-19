@@ -1,5 +1,6 @@
 # Post-Covid-Healthcare-Expenditure
-Interactive Dashboard: <a href="https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Dashboard.twbx">Click Here
+### Interactive Dashboard: <a href="https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/Dashboard.twbx">Click Here
+![Snapshot](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%201.png?raw=true)
 ## Overview
 Healthcare expenditure significantly impacts both national economies and public health. By examining how countries allocate funds to healthcare, we gain insights into their economic priorities, healthcare system resilience, and the potential health outcomes of their populations. This analysis, covering 2019-2022, explores healthcare expenditure trends, with a specific focus on shifts brought about by the COVID-19 pandemic. The pandemic caused an unprecedented strain on healthcare systems worldwide, prompting governments to adjust their spending to address both immediate health crises and long-term resilience.
 
@@ -67,6 +68,8 @@ This preprocessing ensured consistent formatting, removed redundancy, and prepar
 Each visualization provides insight into a specific aspect of healthcare expenditure trends, supported by interpretations and corroborated with external data.
 
 A. **Healthcare Expenditure as a Percentage of GDP (2019-2022)**
+![image alt](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%202.png?raw=true)
+
 •	Purpose: This line chart examines healthcare expenditure as a percentage of GDP over time, highlighting shifts due to the COVID-19 pandemic.
 
 •**Key Insights**:
@@ -78,7 +81,7 @@ o	In contrast, Haiti’s healthcare spending remained around 3% of GDP, showing 
 •	Interpretation: This chart highlights disparities in healthcare funding capacities across countries. Wealthier countries were able to significantly increase their healthcare budgets in response to COVID-19, while low-income nations faced financial limitations that restricted their healthcare response. This disparity in healthcare spending has drawn attention from organizations like the WHO, which calls for increased investment in healthcare infrastructure for low-income countries to improve resilience. 
 
 B. **Healthcare Expenditure Per Capita vs. GDP per Capita (Full View)**
-
+![image alt](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%203.png?raw=true)
 •	**Purpose**: This scatter plot analyses the correlation between healthcare expenditure per capita and GDP per capita, focusing on the impact of economic wealth on healthcare spending.
 
 •	Key Insights:
@@ -90,7 +93,7 @@ o	Low-income countries, such as Uganda and Bangladesh, spend significantly less 
 •	**Interpretation**: The visualization underscores the financial constraints of low-income nations in providing adequate healthcare, leading to a cycle of limited healthcare infrastructure and poor health outcomes. Researchers have suggested that increased international aid for healthcare could help bridge this gap, especially in times of global health emergencies (McGrail et al., 2022).
 
 C. **Healthcare Expenditure Per Capita vs. GDP per Capita (Magnified View)**
-
+![image alt](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%204.png?raw=true)
 •	**Purpose**: To focus on lower-spending countries that are clustered in the bottom range of healthcare expenditure per capita, excluding outliers like the United States.
 
 •	**Key Insights**:
@@ -102,7 +105,7 @@ o	Countries with low GDP per capita, such as Haiti, struggle to increase healthc
 •	**Interpretation**: This view shows that economic status alone does not determine healthcare spending priorities. Socio-political factors and national policies also play critical roles. For example, despite similar GDP per capita, Russia’s healthcare system focuses more on regional healthcare expansion than on urban health technology, unlike Brazil.
  
 D. **Map View of Healthcare Expenditure as a Percentage of GDP (Yearly 2019-2022)**
-
+![image alt](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%205.png?raw=true)
 •	**Purpose**: This map visualizes healthcare expenditure as a percentage of GDP across different countries and regions from 2019 to 2022, identifying geographic spending patterns.
 
 •	**Key Insights**:
@@ -114,7 +117,7 @@ o	In Africa, many countries struggle to allocate even 5% of their GDP to healthc
 •	**Interpretation**: Geographic disparities in healthcare spending indicate that wealthier regions have a significant advantage in maintaining robust healthcare systems. Low-income regions remain reliant on international assistance to cope with health emergencies, which raises questions about global health equity.
  
 E. **Map View of Healthcare Expenditure as a Percentage of GDP (Latest Year)**
-
+![image alt](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%206.png?raw=true)
 •	**Purpose**: This map provides an up-to-date snapshot of healthcare expenditure as a percentage of GDP by country for the most recent year (2022).
 
 •	**Key Insights**:
@@ -126,7 +129,7 @@ o	Bangladesh, at the lower end of the scale, allocated a small portion of GDP to
 •	**Interpretation**: This up-to-date view demonstrates that healthcare priorities vary significantly based on each country’s economic standing and recent experiences with health crises. The United States continues to prioritize healthcare spending, while lower-income nations face challenges in meeting healthcare needs.
  
 F. **Healthcare Expenditure Per Capita vs. Life Expectancy**
-
+![image alt](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%207.png?raw=true)
 •	**Purpose**: This scatter plot examines the correlation between healthcare expenditure per capita and life expectancy, showing how healthcare investment affects health outcomes.
 
 •	**Key Insights**:
@@ -138,7 +141,7 @@ o	Low-income countries like Nigeria and Haiti, with minimal healthcare spending 
 •	**Interpretation**: Higher healthcare expenditure per capita generally correlates with improved health outcomes. However, the WHO cautions that healthcare efficiency and equitable access are also necessary to maximize the impact of healthcare spending on life expectancy.
  
 G. **Heatmap of Healthcare Expenditure Over Time (2019-2022)**
-
+![image alt](https://github.com/ramanavbezborah/Post-Covid-Healthcare-Expenditure/blob/main/assets/Picture%208.png?raw=true)
 •	**Purpose**: This heatmap tracks year-over-year changes in healthcare expenditure across countries, highlighting which countries increased spending in response to COVID-19.
 
 •	**Key Insights**:
